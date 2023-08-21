@@ -1,0 +1,10 @@
+cd backend
+npm i
+npm run dev
+
+open another terminal
+cd frontend
+npm i
+npm run dev
+
+it will run in http://localhost:5173/
